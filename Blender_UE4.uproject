@@ -5,11 +5,11 @@
 	"Description": "",
 	"Plugins": [
 		{
-			"Name": "Niagara",
+			"Name": "NiagaraExtras",
 			"Enabled": true
 		},
 		{
-			"Name": "NiagaraExtras",
+			"Name": "Niagara",
 			"Enabled": true
 		}
 	]
